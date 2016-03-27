@@ -1,0 +1,1 @@
+A prime finder using the sieve_of_eratosthenes. Its fast on my machine for all primes less than 10,000 and takes about a minute for all primes under 65,000
